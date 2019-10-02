@@ -6,14 +6,14 @@ President Postgres(t) REST API
 
 
 Start the application with:
-´´´
+```
 docker-compose up
-´´´
+```
 
 or 
-´´´
+```
 docker-compose up -d
-´´´
+```
 
 for daemon mode.
 
