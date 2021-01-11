@@ -4,6 +4,7 @@ President Postgres(t) REST API
 
 ## Howto
 
+- First clone the repository. 
 
 Start the application with:
 ```
