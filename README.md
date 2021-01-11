@@ -18,6 +18,6 @@ docker-compose up -d
 
 for daemon mode.
 
-Goto http://localhost:8008 for your swagger api documentation.
+Goto http://localhost:8080 for your swagger api documentation.
 
 The REST-API is available via http://localhost:3000
